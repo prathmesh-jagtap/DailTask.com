@@ -1,0 +1,22 @@
+{% extends "todo_list/base.html" %}
+{% block title %} Register {% endblock title %}
+
+{% block body %}
+<div class="header-bar">
+    <h1>Register</h1>
+</div>
+<div class="card-body">
+    <form method="POST">
+        {% csrf_token %}
+        <label>{{ form.username.label }}</label>
+        {{ form.username }}
+        <label>{{ form.password1.label }}</label>
+        {{ form.password1 }}
+        <label>{{ form.password2.label }}</label>
+        {{ form.password2 }}
+        <br>
+        <input type="submit" value="Register" class="button">
+    </form>
+    <p>Already have an account?<a href="{% url 'login' %}">Sign In</a></p>
+</div>
+{% endblock body %}
