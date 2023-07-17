@@ -39,7 +39,6 @@ class RegisterView(FormView):
         user = form.save()
         if user is not None:
             login(self.request, user)
-            print("inter")
         return super(RegisterView, self).form_valid(form)
 
     def get(self, *args: str, **kwargs: Any) -> HttpResponse:
