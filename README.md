@@ -97,4 +97,4 @@ We hope you find this to-do app useful and enjoy using it for your task manageme
 
 Keep Learning !!!
 <hr>
-# Thanks For Watching. 👏
+<h1 align="center">Thanks For Watching. 👏</h1>
