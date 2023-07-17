@@ -91,10 +91,10 @@ This app was developed using Django, a high-level Python web framework. Thanks t
 
 If you have any questions or suggestions, feel free to reach out to the project maintainers:
 
-- Author - https://github.com/prathmesh-jagtap
+- [Author](https://github.com/prathmesh-jagtap)
 
 We hope you find this to-do app useful and enjoy using it for your task management needs!
 
 Keep Learning !!!
 <hr>
-<center>Thanks For Watching.</center>
+# Thanks For Watching. 👏
