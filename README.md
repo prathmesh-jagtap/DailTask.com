@@ -74,12 +74,15 @@ This is a simple to-do app built with Django that allows users to create, manage
 
 7. To search for tasks, use the search bar at the top of the dashboard. Enter keywords related to the tasks you want to find and press Enter.
 
-## Features
+## 📌 Features
 
-- User authentication: Register and login to access the app.
-- CRUD operations: Create, read, update, and delete tasks.
-- Search functionality: Find tasks by searching for keywords.
-- Class-based views: The views are implemented using Django's class-based views for better code organization and reusability.
+1️⃣ CRUD Operations: Create, Read, Update, and Delete tasks seamlessly.
+
+2️⃣ Authentication: Securely register and log in to manage your tasks.
+
+3️⃣ Search Functionality: Easily find tasks with the powerful search feature.
+
+4️⃣ Class-Based Views: Utilized Django's class-based views for organized and reusable code.
 
 ## Contributing
 
